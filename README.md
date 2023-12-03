@@ -39,7 +39,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jailopmar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![jailopmar GitHub stats](https://github-readme-stats.vercel.app/api?username=jailopmar&theme=algolia)](https://github.com/jailopmar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailopmar&theme=algolia)](https://github.com/jailopmar/github-readme-stats) [![jailopmar wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jailopmar&theme=algolia)](https://github.com/jailopmar/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jailopmar&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![jailopmar GitHub stats](https://github-readme-stats.vercel.app/api?username=jailopmar&theme=algolia)](https://github.com/jailopmar/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailopmar&theme=algolia)](https://github.com/jailopmar/github-readme-stats) 
 
 <br>
 
@@ -47,7 +47,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jailopmar)](https://github.com/jailopmar/github-profile-trophy)
 
 <br>
 
