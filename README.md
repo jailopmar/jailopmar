@@ -17,8 +17,6 @@
 <br>
 [![@jaimelo24](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/jaime-l%C3%B3pez-m%C3%A1rquez-59582823a/) 
 <br>
-[![](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+34662637034) <a href="tel:+34662637034">Llamar al 662637034</a>
-<br>
 [![](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:jaime96lopez@gmail.com)
 
 <br>
